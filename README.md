@@ -83,8 +83,8 @@ Publish the website in the given URL.
 </html>
 ```
 ## OUTPUT:
-
+![calc](calc.JPG)
 ## HTML VALIDATOR:
-
+![valid1](valid1.JPG)
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
